@@ -1,0 +1,37 @@
+# Documents: slides, lab statements, reports never go to GitHub
+*.pdf
+*.docx
+*.pptx
+report/
+
+# LaTeX build files (in case a report is compiled inside the repo)
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Raw data: downloaded, not committed
+lab*/data/raw/*
+!lab*/data/raw/.gitkeep
+!lab*/data/raw/README.md
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/
