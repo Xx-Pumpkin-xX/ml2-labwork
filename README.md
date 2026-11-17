@@ -21,21 +21,8 @@ ml2-labwork/
 
 Each lab folder will get its own `README.md` with the tasks, datasets and key results.
 
-## Setup
-
-```bash
-git clone https://github.com/Xx-Pumpkin-xX/ml2-labwork.git
-cd ml2-labwork
-python -m venv .venv
-# Windows: .venv\Scripts\activate    |    Linux/macOS: source .venv/bin/activate
-pip install -r requirements.txt
-jupyter lab
-```
-
 ## Conventions
 
-- Notebooks are numbered (`01_...`, `02_...`) and must run top to bottom (Restart & Run All) before committing.
 - Raw data is never edited in place; cleaned data is written to `data/processed/`.
-- Figures used in the report are saved as PNG to the lab's `figures/` folder.
 - Random seeds are fixed (`random_state=42`) so results are reproducible.
 - Reports, course slides and lab statements are not part of this repository.

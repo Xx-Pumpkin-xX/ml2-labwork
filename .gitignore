@@ -16,10 +16,9 @@ report/
 *.bbl
 *.blg
 
-# Raw data: downloaded, not committed
-lab*/data/raw/*
-!lab*/data/raw/.gitkeep
-!lab*/data/raw/README.md
+# Datasets: downloaded, not committed
+lab*/data/*
+!lab*/data/README.md
 
 # Python / Jupyter
 __pycache__/
