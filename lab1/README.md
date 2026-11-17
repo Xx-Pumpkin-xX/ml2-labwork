@@ -6,8 +6,8 @@
 | [`02_student_performance.ipynb`](notebooks/02_student_performance.ipynb) | Student Performance — math course, 395 students, 33 columns | `G3` / `pass` |
 
 Each notebook follows the lab statement:
-**Part 1** (1.1–1.9) feature types → quality → cleaning → integration → transformation → label → statistics → correlation
-**Part 2** (2.1–2.6) PCA → explained variance → high vs low PCs → varying k → 2D plot → loadings & comparison
+**Part 1** (1.1–1.9) feature types → quality → cleaning → integration → transformation → label → statistics → correlation.
+**Part 2** (2.1–2.6) PCA → explained variance → high vs low PCs → varying k → 2D plot → loadings & comparison.
 
 ## Run
 
