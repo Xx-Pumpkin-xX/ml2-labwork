@@ -7,7 +7,7 @@
 
 Each notebook follows the lab statement:
 **Part 1** (1.1–1.9) feature types → quality → cleaning → integration → transformation → label → statistics → correlation
-**Part 2** (2.1–2.6) PCA → explained variance → high vs low PCs → varying k → 2D plot → loadings & comparison
+**Part 2** (2.1–2.8) PCA (+ unscaled comparison) → explained variance → high vs low PCs → varying k → 2D plot → loadings & comparison → separability (balanced accuracy, original vs PCA)
 
 ## Run
 
