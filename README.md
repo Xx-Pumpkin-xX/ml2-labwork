@@ -1,4 +1,4 @@
-# ML2 Labwork — Machine Learning and Data Mining II
+# ML2 Labwork - Machine Learning and Data Mining II
 
 Source code for the labwork of the course **Machine Learning and Data Mining II** (USTH).
 
