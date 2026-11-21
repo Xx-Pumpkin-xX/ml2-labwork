@@ -9,6 +9,8 @@ Source code for the labwork of the course **Machine Learning and Data Mining II*
 | Nguyễn Trương Thịnh | 2410944 |
 | Nguyễn Hải Phong | 2410770 |
 
+## Labs
+
 | Lab | Topic | Folder | Status |
 |---|---|---|---|
 | 1 | Data preparation & Principal Component Analysis (PCA) | [`lab1/`](lab1/) | In progress |
